@@ -1,1 +1,1 @@
-in these two files I used libraries in Python for data analysis such as pandas and numpy for data analysis and manipulation, and scikitlearn to do train my model to optimize MSE
+I utilized machine learning to train regression, lasso, XGboost, and decision tree models to analyze various datasets. These datasets included stock price time series, inequality, which predicted countres' Gini values, and political datasets which predicted party power in non majority governments
